@@ -1,4 +1,4 @@
-# Ex.No:3a Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
+# Ex.No:2a Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
 
 
 ## AIM:
@@ -135,10 +135,10 @@ activity_main.xml
 
 ## OUTPUT
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f577c880-abb7-488f-b6a9-48106fdcdeab" />
-<img width="617" height="329" alt="image" src="https://github.com/user-attachments/assets/a107d94e-6e55-4615-bbf6-ee1ac4ec2752" />
-<img width="617" height="330" alt="image" src="https://github.com/user-attachments/assets/a3c599b8-cd70-4c22-964c-6d487e1c2651" />
-<img width="619" height="326" alt="image" src="https://github.com/user-attachments/assets/a16cca7f-2552-43ee-8c50-d0d6d0cdc84d" />
-<img width="617" height="331" alt="image" src="https://github.com/user-attachments/assets/c6efd6a7-9428-4248-8953-3dcd251bf3ca" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a107d94e-6e55-4615-bbf6-ee1ac4ec2752" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a3c599b8-cd70-4c22-964c-6d487e1c2651" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a16cca7f-2552-43ee-8c50-d0d6d0cdc84d" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/c6efd6a7-9428-4248-8953-3dcd251bf3ca" />
 
 
 
